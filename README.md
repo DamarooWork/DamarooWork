@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, меня зовут Лев, и я Frontend-разработчик 👋
 
 <!--
 **DamarooWork/DamarooWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
