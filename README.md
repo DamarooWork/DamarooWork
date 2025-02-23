@@ -5,7 +5,7 @@
 
 
 <p align="center" dir="auto">
- <img align="center" width="100%"  src="https://github-profile-trophy.vercel.app/?username=ryo-ma&&rank=S,SS,SSS,SECRET&theme=gruvbox" alt="" />
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&&rank=S,SS,SSS,SECRET&theme=gruvbox" alt="" />
 </p>
 <p align="center" dir="auto">
  <img margin="auto" width="50%"  src="https://streak-stats.demolab.com?user=DamarooWork&theme=gruvbox&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D" alt="Jokes Card" />
