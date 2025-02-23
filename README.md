@@ -1,4 +1,4 @@
-## Привет, меня зовут Лев, и я  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&height=20&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://github.com/DamarooWork)👋
+## Привет, меня зовут Лев, и я  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=300&height=20&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg) 👋
 
 <!--
 **DamarooWork/DamarooWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
