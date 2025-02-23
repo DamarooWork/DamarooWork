@@ -5,5 +5,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,SS,SSS,UNKNOWN&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DamarooWork&theme=gruvbox&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<img src="[https://readme-jokes.vercel.app/api](https://streak-stats.demolab.com?user=DamarooWork&theme=gruvbox&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D)" alt="Jokes Card" />
 
