@@ -5,5 +5,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,SS,SSS,UNKNOWN&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</h3>
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</div>
 
