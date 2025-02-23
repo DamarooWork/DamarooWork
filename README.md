@@ -3,8 +3,10 @@
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-<img align="center" width="100%"  src="https://github-profile-trophy.vercel.app/?username=ryo-ma&&rank=S,SS,SSS,SECRET&theme=gruvbox" alt="" />
 
+<p align="center" dir="auto">
+ <img align="center" width="100%"  src="https://github-profile-trophy.vercel.app/?username=ryo-ma&&rank=S,SS,SSS,SECRET&theme=gruvbox" alt="" />
+</p>
 <p align="center" dir="auto">
  <img margin="auto" width="50%"  src="https://streak-stats.demolab.com?user=DamarooWork&theme=gruvbox&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D" alt="Jokes Card" />
 </p>
